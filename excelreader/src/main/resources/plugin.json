@@ -1,0 +1,6 @@
+{
+  "name": "excelreader",
+  "class": "cc.kurl.zdrgs.datax.plugin.reader.ExcelReader",
+  "description": "Retrieve data from Microsoft Excel Application",
+  "developer": "wgzhao"
+}
